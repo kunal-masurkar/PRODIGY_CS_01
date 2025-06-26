@@ -1,12 +1,6 @@
 # PRODIGY_CS_01
 
-# Prodigy InfoTech Python Utilities Collection
-
-This repository contains a collection of Python scripts developed as part of the Prodigy InfoTech internship. Each script is a standalone tool designed to solve a specific problem, ranging from data encryption to security analysis.
-
-## Projects
-
-### 1. Caesar Cipher Tool
+## Caesar Cipher Tool
 
 A versatile tool for encrypting and decrypting text using the classical Caesar cipher algorithm.
 
